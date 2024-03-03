@@ -29,7 +29,7 @@
   "devDependencies": {
     "@egoist/prettier-config": "1.0.0",
     "@types/node": "18.16.19",
-    "esno": "0.17.0",
+    "esno": "4.7.0",
     "openapi3-ts": "4.1.2",
     "prettier": "3.0.0",
     "tsup": "7.1.0",
